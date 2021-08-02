@@ -1,0 +1,34 @@
+[
+    {
+      "question": "What is a hackathon?",
+      "answer": "A hackathon is an event where individuals or teams work on technical projects in a short period of time (24-36 hours). With the help of workshops and mentors you can build an app, a website, a robot—the possibilities are endless!"
+    },
+    {
+      "question": "Who are individuals of marginalized genders?",
+      "answer": "Our definition includes transgender women, cisgender women, transgender men, non-binary individuals, and all gender identities which have been systematically oppressed by those in power throughout history."
+    },
+    {
+      "question": "Is there a cost to attend?",
+      "answer": "Nope! TechTogether Boston is free to attend :)"
+    },
+    {
+      "question": "How will I participate in TechTogether Boston?",
+      "answer": "This year TechTogether Boston will run virtually and use platforms like Discord and Zoom. We will provide more details on how to participate as we get closer to the date."
+    },
+    {
+      "question": "What skills do I need to participate?",
+      "answer": "Our hackathons are very beginner friendly! We have intro workshops tailored to first-time hackers and a unique high school program to help assimilate all our hackers! If you want to fine tune your skills, <a href='https://www.linkedin.com/posts/techtogetherboston_pythonprojects-python-coding-activity-6702731391915851776-O4rI' target='_blank' style='color: #808cfb'>here</a> are some fun Python projects you can work on."
+    },
+    {
+      "question": "How will teams work?",
+      "answer": "Teams can consist of 1-4 hackers. You can form a team before the hackathon, and there will be Team Formation events on Friday and Saturday to meet other hackers."
+    },
+    {
+      "question": "Will there be swag and prizes?",
+      "answer": "TechTogether Boston is donating to local profits in the form of swag this year, but there will be prizes!"
+    },
+    {
+      "question": "I have more questions!",
+      "answer": "We’re happy to answer! Please DM us on Instagram or Twitter, or contact us at info.boston@techtogether.io for any questions/concerns."
+    }
+  ]

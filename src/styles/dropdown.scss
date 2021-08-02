@@ -1,0 +1,67 @@
+// @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,700;1,300&display=swap');
+
+.dropdownContainer {
+    button {
+        text-align: left;
+        outline: none;
+        border: none;
+        color: white;
+        padding: 15px 15px 15px 25px;
+        margin: 10px 0;
+        font-size: 20px;
+        border-radius: 10px;
+        font-family: "Barlow", sans-serif;
+        letter-spacing: 1px;
+
+        .headerContainer{
+            display: flex;
+            align-items: center;
+
+            .svgContainer {
+                width: 30px;
+                float: right;
+
+                svg {
+                    float: right;
+                    width: 30px;
+                    fill: white;
+                }
+            }
+        }
+
+        dd {
+            padding: 15px 10px 10px 0;
+            font-size: 17px;
+            font-weight: 100;
+        }
+    }
+}
+
+@media screen and (min-width: $small) and (max-width: $medium) {
+    .dropdownContainer {
+        button {
+            padding: 13px 13px 13px 23px;
+            font-size: 17px;
+
+            dd {
+                padding: 15px 10px 10px 0;
+                font-size: 15px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: $small) {
+    .dropdownContainer {
+        button {
+            padding: 10px 10px 10px 20px;
+            font-size: 15px;
+
+            dd {
+                padding: 15px 10px 10px 0;
+                font-size: 13px;
+            }
+        }
+    }
+}

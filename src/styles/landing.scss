@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500;600&display=swap');
+
+#landing {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    letter-spacing: 2px;
+
+    .landingSubcontainer {
+        width: 950px;
+        position: relative;
+        display: inline-flex;
+        margin: 100px auto 200px auto;
+        flex-flow: row;
+
+        .landingText {
+            flex: 2;
+            color: white;
+            font-family: "Barlow", sans-serif;
+            align-self: center;
+
+            .landingTextChild {
+                
+                h2 {
+                    font-size: 70px;
+                    text-shadow: 0px 2px 5px $shadowcolor;
+                }
+
+                .landingInfo {
+                    padding: 15px 0 0 0;
+
+                    p {
+                        font-size: 25px;
+                    }
+                }
+            }
+
+        }
+
+        .byteImages {
+            flex: 0.5;
+        }
+    }
+}
+
+@media screen and (min-width: $small) and (max-width: $medium) {
+    #landing {
+        text-align: center;
+
+        .landingSubcontainer {
+            margin: auto;
+            width: 500px;
+        }
+
+        .byteImages {
+            display: none;
+        }
+    }
+}
+
+@media screen and (max-width: $small) {
+    #landing {
+        text-align: center;
+        letter-spacing: 1px;
+
+        .landingSubcontainer {
+            margin: auto 30px;
+
+            .landingText {
+
+                .landingTextChild {
+                
+                    h2 {
+                        font-size: 40px;
+                    }
+
+                    .landingInfo {
+                        padding: 15px 0 0 0;
+
+                        p {
+                            font-size: 17px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .byteImages {
+            display: none;
+        }
+    }
+}

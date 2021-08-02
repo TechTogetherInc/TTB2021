@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,700;1,300&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;700&display=swap');
+
+#about {
+    color: white;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    letter-spacing: 2px;
+
+    .aboutSubcontainer{
+        position: relative;
+        margin: auto 3% auto 12%;
+        font-family: "Barlow", sans-serif;
+        // display: inline-flex;
+
+        h2 {
+            text-transform: uppercase;
+            font-size: 45px;
+
+            :first-child {
+                font-weight: 700;
+            }
+
+            :last-child {
+                font-style: italic;
+                font-weight: 300;
+            }
+        
+        }
+        
+        p {
+            font-weight: 300;
+        }
+    }
+}
+
+
+@media screen and (min-width: $small) and (max-width: $medium) {
+    #about {
+        .aboutSubcontainer {
+            margin: auto 20%;
+
+            h2 {
+                font-size: 30px;
+            }
+        }
+
+        .byteImages {
+            display: none;
+        }
+    }
+}
+
+@media screen and (max-width: $small) {
+    #about {
+        letter-spacing: 1px;
+
+        .aboutSubcontainer {
+            margin: auto 35px;
+
+            h2 {
+                font-size: 25px;
+            }
+
+            p {
+                font-size: 15px;
+            }
+        }
+
+        .byteImages {
+            display: none;
+        }
+    }
+}

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+#getInvolved {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    letter-spacing: 2px;
+
+    .getInvolvedSubcontainer{
+        position: relative;
+        margin: 70px 8%;
+        // text-align: center;
+
+        h2 {
+            color: $navyblue;
+            text-align: center;
+            text-transform: uppercase;
+            font-family: "Roboto", sans-serif;
+            font-size: 40px;
+            margin-bottom: 50px;
+        }
+
+        .getInvolvedBody{
+            text-align: center;
+
+            .getInvolvedComponent{
+                width: 325px;
+                display: inline-block;
+
+                .byteImages {
+                    margin-bottom: -50px;
+                }
+
+                .dropdownContainer{
+                    margin: auto;
+                    width: 290px;
+
+                    button {
+                        background-color: $navyblue;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: $small) and (max-width: $medium) {
+    #getInvolved {
+
+        .getInvolvedSubcontainer {
+            margin: 70px auto;
+            width: 650px;
+
+            h2 {
+                font-size: 30px;
+            }
+
+            .getInvolvedBody{
+
+                .dropdownContainer{
+                    width: 275px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: $small) {
+    #getInvolved {
+        text-align: center;
+        letter-spacing: 1px;
+
+        .getInvolvedSubcontainer {
+            margin: 70px 30px;
+
+            h2 {
+                font-size: 27px;
+            }
+
+            .getInvolvedBody{
+
+                .dropdownContainer{
+                    width: 225px;
+                }
+            }
+
+        }
+    }
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+#faq {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    letter-spacing: 2px;
+
+    .faqContainer{
+        position: relative;
+        margin: 70px 8%;
+        // display: inline-flex;
+
+        h2 {
+            //color: $lightpurple;
+            color: #181D46;
+            text-align: center;
+            text-transform: uppercase;
+            font-family: "Roboto", sans-serif;
+            font-size: 40px;
+            margin-bottom: 50px;
+        }
+
+        .faqSubcontainer{
+            text-align: center;
+
+            .faqHalfContainer{
+                display: inline-block;
+                width: 460px;
+
+                .dropdownContainer {
+                    width: 450px;
+                    margin: auto;
+
+                    button {
+                        //background-color: $mediumpurple;
+                        //this dark purple leads to no contrast errors
+                        background-color:#181D46;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: $small + 100) and (max-width: $medium) {
+    #faq {
+        .faqContainer {
+            margin: 70px auto;
+
+            h2 {
+                font-size: 30px;
+            }
+
+            .faqSubcontainer {
+                .faqHalfContainer{
+
+                    .dropdownContainer {
+                        width: 400px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: $small + 100) {
+    #faq {
+        text-align: center;
+        letter-spacing: 1px;
+
+        .faqContainer {
+            margin: 70px 30px;
+
+            h2 {
+                font-size: 27px;
+            }
+
+            .faqSubcontainer{
+                text-align: center;
+
+                .faqHalfContainer{
+                    width: 300px;
+
+                    .dropdownContainer {
+                        width: 300px;
+                    }
+                }
+            }
+
+        }
+    }
+}

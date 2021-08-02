@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
+
+#footer {
+    color: white;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    letter-spacing: 2px;
+    background-color: $navyblue;
+
+    .footerSubcontainer{
+        position: relative;
+        width: 600px;
+        text-align: center;
+        margin: 70px auto;
+
+        h2 {
+            text-transform: uppercase;
+            font-family: "Roboto", sans-serif;
+            font-size: 30px;
+            margin-bottom: 30px;
+        }
+        p {
+            font-family: "Barlow", sans-serif;
+            font-size: 17px;
+            font-weight: 100;
+            margin-bottom: 30px;
+        }
+
+        .socials {
+            display: flex;
+            width: 240px;
+            margin: auto;
+
+            .icon {
+                width: 50px;
+                margin: 0px 5px;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: $small) and (max-width: $medium) {
+    #footer {
+
+        .footerSubcontainer {
+            width: 500px;
+        }
+    }
+}
+
+@media screen and (max-width: $small) {
+    #footer {
+
+        .footerSubcontainer {
+            width: 250px;
+
+            h2 {
+                font-size: 27px;
+            }
+
+            p {
+                font-size: 15px;
+            }
+
+            .socials {
+                width: 175px;
+
+                .icon {
+                    width: 35px;
+                }
+            }
+        }
+    }
+}

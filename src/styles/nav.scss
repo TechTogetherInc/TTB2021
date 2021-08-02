@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
+
+#nav, #navMobile {
+    background-color: $navyblue;
+    position: fixed;
+    z-index: 100;
+    width: 0%;
+    height: auto;
+    width: 100%;
+}
+
+#nav {
+    padding: 0 15px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+
+    .navLogo {
+        width: 200px;
+    }
+
+    .navMenu {
+        margin-left: 40px;
+
+        .navItem {
+            padding: 0 20px;
+            display: inline;
+            font-family: "Barlow", sans-serif;
+            font-weight: bold;
+            letter-spacing: 2px;
+            font-size: 17px;
+        }
+    }
+}
+
+#navMobile {
+    display: none;
+
+    .navMobileContainer {
+        .navLogo {
+            width: 150px;
+            margin-left: 15%;
+        }
+
+        .navMobileIcon {
+            background-color: $navyblue;
+            width: 30px;
+            float: right;
+            margin: 17px 20px 0 0;
+        }
+    }
+    .navMobileMenu {
+
+        .navMobileItem {
+            text-align: center;
+            font-family: "Barlow", sans-serif;
+            letter-spacing: 2px;
+            font-size: 17px;
+            padding: 30px 0;
+        }
+    }
+}
+
+@media screen and (max-width: $medium) {
+    #nav {
+        display: none;
+    }
+
+    #navMobile {
+        display: block;
+    }
+}
