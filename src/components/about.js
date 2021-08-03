@@ -47,7 +47,7 @@ const BackgroundSection = ({className}) => {
         </div>
 
         <div className="byteImages">
-            <img src={tree} alt="tree picture" style={{width: 550, position: "absolute", bottom:"0", right:"0"}}/>
+            <img src={tree} alt="tree-picture" style={{width: 550, position: "absolute", bottom:"0", right:"0"}}/>
         </div>
       </section>
     </BackgroundImage>

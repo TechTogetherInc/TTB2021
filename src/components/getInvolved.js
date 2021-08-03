@@ -37,7 +37,7 @@ const BackgroundSection = ({className}) => {
 
                 <div className="getInvolvedBody">
                     {getInvolvedData.map((data) => (
-                        <div className="getInvolvedComponent">
+                        <div className="getInvolvedComponent" key={data.header}>
                             <div className="byteImages">
                                 <Image filename={data.image} alt="byte-images"/>
                             </div>

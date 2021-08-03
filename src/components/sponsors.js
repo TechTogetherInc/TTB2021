@@ -37,8 +37,10 @@ const BackgroundSection = ({className}) => {
 
             <div className="sponsorLogoContainer">
               {sponsorsData.map((data) => (
-                  <div className="sponsorLogo">
-                    <Image filename={data.logo} alt="byte-images" />
+                  <div className="sponsorLogo" key={data.sponsor}>
+                    <a href={data.link} target="_blank" rel="noreferrer">
+                      <Image filename={data.logo} alt="byte-images" />
+                    </a>
                   </div>
               ))}
             </div>
