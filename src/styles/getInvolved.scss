@@ -28,7 +28,13 @@
                 display: inline-block;
 
                 .byteImages {
-                    margin-bottom: -50px;
+                    position: relative;
+                    width: 100px;
+                    margin: 0 auto -50px auto;
+
+                    img {
+                        z-index: -1;
+                    }
                 }
 
                 .dropdownContainer{
@@ -44,7 +50,7 @@
     }
 }
 
-@media screen and (min-width: $small) and (max-width: $medium) {
+@media screen and (min-width: $small + 150) and (max-width: $medium) {
     #getInvolved {
 
         .getInvolvedSubcontainer {
@@ -65,7 +71,7 @@
     }
 }
 
-@media screen and (max-width: $small) {
+@media screen and (max-width: $small + 150) {
     #getInvolved {
         text-align: center;
         letter-spacing: 1px;
@@ -79,8 +85,16 @@
 
             .getInvolvedBody{
 
-                .dropdownContainer{
-                    width: 225px;
+                .getInvolvedComponent{
+
+                    .byteImages{
+                        display: none;
+                    }
+
+                    // .dropdownContainer{
+                        // width: 250px;
+                    // }
+
                 }
             }
 

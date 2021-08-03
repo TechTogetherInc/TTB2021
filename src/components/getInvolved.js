@@ -4,51 +4,9 @@ import styled from 'styled-components';
 import BackgroundImage from 'gatsby-background-image';
 
 import Dropdown from "./subcomponents/dropdown";
-import byteViolet from "../images/byteViolet.png";
-import bytePurple from "../images/bytePurple.png";
-import byteTan from "../images/byteTan.png";
-import byteBlue from "../images/byteBlue.png";
-import byteLilac from "../images/byteLilac.png";
-import bytePink from "../images/bytePink.png";
+import Image from "./subcomponents/image";
 
-const byteData = [
-    {
-        "image": byteViolet,
-        "header": "Become a Sponsor",
-        "body": "Each year TechTogether Boston works with top companies to help them tap into the Boston talent market. <a href='https://techtogether.typeform.com/to/B7gH63j2' target='_blank' style='color: #808cfb'>Take me there!</a>",
-        "link": "https://techtogether.typeform.com/to/B7gH63j2"
-    },
-    {
-        "image": bytePurple,
-        "header": "Register to Hack",
-        "body": "Come to hack or just come to learn at TechTogether Boston's fifth-ever hackathon! <a href='https://www.eventbrite.com/e/153573481417' target='_blank' style='color: #808cfb'>Take me there!</a>",
-        "link": "https://www.eventbrite.com/e/153573481417"
-    },
-    {
-        "image": byteTan,
-        "header": "Resource Request",
-        "body": "Need some help partaking in the hackathon? Let us know how we can help you. <a href='https://techtogether.typeform.com/to/lnjbcCU2' target='_blank' style='color: #808cfb'>Take me there!</a>",
-        "link": "https://techtogether.typeform.com/to/lnjbcCU2"
-    },
-    {
-        "image": byteBlue,
-        "header": "Mentor Hackers",
-        "body": "Help our hackers brainstorm project ideas and squash mean programming bugs. <a href='https://techtogether.typeform.com/to/NBbK6BR' target='_blank' style='color: #808cfb'>Take me there!</a>",
-        "link": "https://techtogether.typeform.com/to/NBbK6BRk"
-    },
-    {
-        "image": byteLilac,
-        "header": "Host a Workshop",
-        "body": "Come teach our hackers important skills that will inspire them to learn more after the hackathon. <a href='https://techtogether.typeform.com/to/uZjK1EE2' target='_blank' style='color: #808cfb'>Take me there!</a>",
-        "link": "https://techtogether.typeform.com/to/uZjK1EE2"
-    },
-    {
-        "image": bytePink,
-        "header": "Judge Projects",
-        "body": " Help TechTogether select the winning projects for each of our challenges. This is a volunteering opportunity with those that only have 2-3 hours available to help out. <a href='https://techtogether.typeform.com/to/On0EiMYP' target='_blank' style='color: #808cfb'>Take me there!</a>",
-        "link": "https://techtogether.typeform.com/to/On0EiMYP"
-    }
-];
+import getInvolvedData from "../data/getInvolved.json";
 
 const BackgroundSection = ({className}) => {
   const data = useStaticQuery(
@@ -78,10 +36,10 @@ const BackgroundSection = ({className}) => {
                 <h2>Get Involved</h2>
 
                 <div className="getInvolvedBody">
-                    {byteData.map((data) => (
+                    {getInvolvedData.map((data) => (
                         <div className="getInvolvedComponent">
                             <div className="byteImages">
-                                <img src={data.image} alt="byte-images" style={{width: 80}}/>
+                                <Image filename={data.image} alt="byte-images"/>
                             </div>
                             <Dropdown
                                 header={data.header}

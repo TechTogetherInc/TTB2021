@@ -1,31 +1,31 @@
 [
     {
         "sponsor": "Microsoft",
-        "logo": "../images/logos/Microsoft.png",
+        "logo": "sponsor-logos/Microsoft.png",
         "blurb": "Test blurb",
         "link": "https://bit.ly/tt-microsoft-careers"
     },
     {
         "sponsor": "Capital One",
-        "logo": "../images/logos/CapitalOne.png",
+        "logo": "sponsor-logos/CapitalOne.png",
         "blurb": "Test blurb",
         "link": "https://bit.ly/tt-capital-one"
     },
     {
         "sponsor": "Boston University",
-        "logo": "../images/logos/Microsoft.png",
+        "logo": "sponsor-logos/BU.png",
         "blurb": "Test blurb",
         "link": "https://bit.ly/tt-bu-admissions"
     },
     {
-        "sponsor": "Microsoft",
-        "logo": "../images/logos/Microsoft.png",
+        "sponsor": "Spark",
+        "logo": "sponsor-logos/Spark.png",
         "blurb": "Test blurb",
         "link": "https://bit.ly/tt-spark"
     },
     {
         "sponsor": "Balsamiq",
-        "logo": "../images/logos/Microsoft.png",
+        "logo": "sponsor-logos/Balsamiq.png",
         "blurb": "Test blurb",
         "link": "https://bit.ly/tt-balsamiq"
 
