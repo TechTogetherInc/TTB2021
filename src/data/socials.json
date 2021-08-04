@@ -1,0 +1,22 @@
+[
+    {
+        "name": "facebook",
+        "image": "facebook.png",
+        "link": "https://www.facebook.com/TechTogetherBoston/"
+    },
+    {
+        "name": "instagram",
+        "image": "instagram.png",
+        "link": "https://www.instagram.com/techtogetherboston/"
+    },
+    {
+        "name": "twitter",
+        "image": "twitter.png",
+        "link": "https://twitter.com/techtogetherbos/"
+    },
+    {
+        "name": "linkedin",
+        "image": "linkedin.png",
+        "link": "https://www.linkedin.com/company/techtogetherboston/"
+    }
+]

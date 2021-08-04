@@ -35,7 +35,7 @@ const BackgroundSection = ({className}) => {
           <div className="sponsorsSubcontainer">
             <h2>Our Sponsors</h2>
 
-            <div className="sponsorLogoContainer">
+            {/* <div className="sponsorLogoContainer">
               {sponsorsData.map((data) => (
                   <div className="sponsorLogo" key={data.sponsor}>
                     <a href={data.link} target="_blank" rel="noreferrer">
@@ -43,6 +43,25 @@ const BackgroundSection = ({className}) => {
                     </a>
                   </div>
               ))}
+            </div> */}
+
+            <div className="sponsorLogoContainer">
+              {Array.from(Array(10).keys()).map(index => 
+                <div className="sponsorLogoSubcontainer">
+                  {sponsorsData.map((data) => {
+                    if (index === data.tier){
+                      return (
+                      <div className="sponsorLogo" key={data.sponsor}>
+                        <a href={data.link} target="_blank" rel="noreferrer">
+                          <Image filename={data.logo} alt="byte-images" />
+                        </a>
+                        {/* {data.sponsor} */}
+                      </div>
+                      )
+                    }
+                  })}
+                </div>
+              )}
             </div>
 
             <div className="byteImages">

@@ -4,28 +4,10 @@ import instagram from "../images/instagram.png";
 import twitter from "../images/twitter.png";
 import linkedin from "../images/linkedin.png";
 
-const socials = [
-    {
-        "name": "facebook",
-        "image": facebook,
-        "link": "https://www.facebook.com/TechTogetherBoston/"
-    },
-    {
-        "name": "instagram",
-        "image": instagram,
-        "link": "https://www.instagram.com/techtogetherboston/"
-    },
-    {
-        "name": "twitter",
-        "image": twitter,
-        "link": "https://twitter.com/techtogetherbos/"
-    },
-    {
-        "name": "linkedin",
-        "image": linkedin,
-        "link": "https://www.linkedin.com/company/techtogetherboston/"
-    },
-]
+import Image from "./subcomponents/image";
+import socials from "../data/socials.json";
+
+
 const Footer = () => (
     <section id="footer">
         <div className="footerSubcontainer">
@@ -36,7 +18,7 @@ const Footer = () => (
                 {socials.map(social => 
                     <div className="icon" key={social.link}>
                         <a href={social.link} target="_blank" rel="noreferrer">
-                            <img src={social.image} alt={social.name} />
+                            <Image filename={social.image} alt={social.name} />
                         </a>
                     </div>
                 )}
