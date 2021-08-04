@@ -3,6 +3,7 @@ import Helmet from "react-helmet";
 import Navbar from "../components/subcomponents/navbar";
 import NavbarMobile from "../components/subcomponents/navbarMobile";
 
+import favicon from '../images/favicon.ico';
 import "../styles/theme.scss";
 
 const Layout = ({ children }) => (
@@ -20,6 +21,10 @@ const Layout = ({ children }) => (
           content: "hackathon, boston, hackers, diversity, marginalized",
         },
       ]}
+
+      // link={[
+      //   { rel: 'shortcut icon', type: 'image/png', href: `${favicon}` }
+      // ]}
 
       htmlAttributes={{
         lang: 'en',

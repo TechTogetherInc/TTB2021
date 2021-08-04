@@ -41,6 +41,8 @@ const Footer = () => (
                     </div>
                 )}
             </div>
+
+            <a className="codeOfConduct" href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf" target="_blank" rel="noreferrer">Code of Conduct</a>
         </div>
     </section>
   );

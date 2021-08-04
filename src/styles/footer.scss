@@ -31,11 +31,20 @@
         .socials {
             display: flex;
             width: 240px;
-            margin: auto;
+            margin: 0 auto 20px auto;
 
             .icon {
                 width: 50px;
                 margin: 0px 5px;
+            }
+        }
+
+        .codeOfConduct {
+            font-family: "Barlow", sans-serif;
+            font-weight: 100;
+
+            a:hover {
+                text-decoration: underline;
             }
         }
     }
