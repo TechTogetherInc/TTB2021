@@ -26,6 +26,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
+        name:  `TechTogetherBoston`,
+        short_name:  `TTB`,
+        start_url: `/`,
+        background_color: `#cea3fa`,
+        theme_color: `#181d45`,
+        display: `standalone`,
         icon:  `src/images/favicon.ico`,
       }
     }
