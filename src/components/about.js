@@ -37,11 +37,11 @@ const BackgroundSection = ({className}) => {
             </h2>
             <br />
             <p>
-            We are excited to welcome you to TechTogether Boston 2021, which will be taking place virtually this year from September 10th - 12th. At TechTogether Boston, our mission is to empower all people of marginalized genders by providing opportunities to gain valuable skills and explore tech in an inclusive, inspiring, and engaging environment.
+           We are excited to welcome you to TechTogether Boston 2021, which will take place virtually this year from September 10th - 12th. At TechTogether Boston, our mission is to empower all people of marginalized genders by providing opportunities to gain valuable skills and explore tech in an inclusive, inspiring, and engaging environment. 
             
             <br/><br/>
 
-            Our theme this season, New Adventures Await, is focused on exploration and getting outside your comfort zone. From expanding your skill set with our variety of workshops to learning about different career paths in STEM, we encourage you to set sail and join us as we embark on the next great adventure! Whether you’re a complete beginner or an experienced hacker, we’d love to see you virtually at TechTogether Boston 2021, open to all individuals of marginalized genders.
+            Our theme this season, New Adventures Await, is focused on exploration and getting outside your comfort zone. From expanding your skillset with our variety of workshops to learning about different career paths in STEM, we encourage you to set sail and join us as we embark on the next great adventure! Whether you’re a complete beginner or an experienced hacker, we’d love to see you virtually at TechTogether Boston 2021, open to all individuals of marginalized genders.
             </p>
           </div>
         </div>
