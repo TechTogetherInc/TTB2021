@@ -24,7 +24,7 @@
             text-align: center;
 
             .getInvolvedComponent{
-                width: 325px;
+                width: 300px;
                 display: inline-block;
 
                 .byteImages {
@@ -62,9 +62,13 @@
             }
 
             .getInvolvedBody{
+                .byteImages{
+                    display: none;
+                }
 
                 .dropdownContainer{
                     width: 275px;
+                    margin: -7px auto;
                 }
             }
         }
@@ -81,6 +85,7 @@
 
             h2 {
                 font-size: 27px;
+                margin-bottom: 20px;
             }
 
             .getInvolvedBody{
@@ -91,9 +96,14 @@
                         display: none;
                     }
 
-                    // .dropdownContainer{
+                    .dropdownContainer{
                         // width: 250px;
-                    // }
+                        margin: -7px auto;
+
+                        dd {
+                            padding: 5px 5px 5px 0;
+                        }
+                    }
 
                 }
             }
