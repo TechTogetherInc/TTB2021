@@ -6,6 +6,7 @@ import About from "../components/about";
 import Sponsors from "../components/sponsors";
 import Faq from "../components/faq";
 import GetInvolved from "../components/getInvolved";
+import Challenges from "../components/challenges";
 import Footer from "../components/footer";
 
 import "../styles/theme.scss"
@@ -15,6 +16,7 @@ const IndexPage = () => {
     <Layout>
       <Landing />
       <About />
+      <Challenges />
       <Faq />
       <Sponsors />
       <GetInvolved />

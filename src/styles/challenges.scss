@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&display=swap');
+
+#challenges {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    letter-spacing: 2px;
+    color: white;
+
+    .challengesSubcontainer {
+        position: relative;
+        padding: 70px 8%;
+        align-items: center;
+
+        h2 {
+            text-align: center;
+            text-transform: uppercase;
+            font-family: "Roboto", sans-serif;
+            font-size: 40px;
+            margin-bottom: 40px;
+        }
+
+        .challengesBody {
+            width: 80%;
+            margin: 0 auto;
+
+            .challengesSlide {
+                background-color: $mediumpurple;
+                border-radius: 10px;
+                border: 3px solid white;
+                text-align: center;
+                padding: 50px 100px;
+                margin: 0;
+
+                .challengesImage {
+                    width: 200px;
+                    margin: auto;
+                }
+
+                .challengesText {
+                    font-family: "Barlow", sans-serif;
+                    margin-top: 30px;
+
+                    .challengesTitle {
+                        font-size: 40px;
+                        margin-bottom: 20px;
+                    }
+
+                    .challengesDescription {
+                        font-size: 25px;
+                        font-weight: 200;
+                    }
+                }
+            }
+
+            .slick-prev:before {
+                content: "<" ;
+                font-family: 'Roboto';
+                font-size: 40px;
+            }
+
+            .slick-next:before {
+                content: ">" ;
+                font-family: 'Roboto';
+                font-size: 40px;
+            }
+
+            .slick-dots {
+                display: none !important;
+            }
+        }
+
+        .challengesQuiz {
+            font-family: "Barlow", sans-serif;
+            font-weight: 200;
+            margin: 20px auto 0 auto;
+            text-align: center;
+            border-radius: 10px;
+            background-color: $mediumpurple;
+            font-size: 35px;
+            padding: 10px 8%;
+            width: 70%;
+        }
+    }
+}
+
+@media screen and (min-width: $small + 150) and (max-width: $medium) {
+    #challenges {
+
+        .challengesSubcontainer {
+
+            h2 {
+                font-size: 30px;
+            }
+
+            .challengesBody {
+
+                .challengesSlide {
+                    padding: 50px 50px;
+
+                    .challengesImage {
+                    }
+
+                    .challengesText {
+
+                        .challengesTitle {
+                            font-size: 25px;
+
+                        }
+
+                        .challengesDescription {
+                            font-size: 20px;
+                            
+                        }
+                    }
+                }
+            }
+
+            .challengesQuiz {
+                font-size: 25px;
+                padding: 10px 25px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: $small + 150) {
+    #challenges {
+        letter-spacing: 1px;
+
+        .challengesSubcontainer {
+
+            h2 {
+                font-size: 27px;
+            }
+
+            .challengesBody {
+
+                .challengesSlide {
+                    padding: 30px 25px;
+
+                    .challengesImage {
+                        width: 150px;
+                    }
+
+                    .challengesText {
+
+                        .challengesTitle {
+                            font-size: 25px;
+
+                        }
+
+                        .challengesDescription {
+                            font-size: 20px;
+                        }
+                    }
+                }
+            }
+
+            .challengesQuiz {
+                font-size: 20px;
+                padding: 10px 15px;
+            }
+
+        }
+    }
+}

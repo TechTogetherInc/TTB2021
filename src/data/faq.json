@@ -4,6 +4,10 @@
       "answer": "A hackathon is an event where individuals or teams work on technical projects in a short period of time (24-36 hours). With the help of workshops and mentors you can build an app, a website, a robot—the possibilities are endless!"
     },
     {
+      "question": "What can participate?",
+      "answer": "People of marginalized genders who are 14 or older."
+    },
+    {
       "question": "Who are individuals of marginalized genders?",
       "answer": "Our definition includes transgender women, cisgender women, transgender men, non-binary individuals, and all gender identities which have been systematically oppressed by those in power throughout history."
     },
@@ -25,7 +29,7 @@
     },
     {
       "question": "Will there be swag and prizes?",
-      "answer": "TechTogether Boston is donating to local profits in the form of swag this year, but there will be prizes!"
+      "answer": "TechTogether Boston is donating to local nonprofits in the form of swag this year, but there will be prizes!"
     },
     {
       "question": "I have more questions!",

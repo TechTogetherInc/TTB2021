@@ -1,8 +1,4 @@
 import React from "react";
-import facebook from "../images/facebook.png";
-import instagram from "../images/instagram.png";
-import twitter from "../images/twitter.png";
-import linkedin from "../images/linkedin.png";
 
 import Image from "./subcomponents/image";
 import socials from "../data/socials.json";
