@@ -33,6 +33,12 @@
         "blurb": "UX is an exciting, fast-growing, high-paying, impactful discipline. But where do you start? Start with Balsamiq! Balsamiq Wireframes is the perfect first UX design tool for anyone interested in getting into UX. It's by far the most approachable: you just drag, drop, and arrange controls on the page, and voila', you made your first User Interface! They even have online courses and articles to teach you all about UI design and wireframing. Balsamiq is free for classroom use, and very affordable for anyone else. Kick-start your UX career at balsamiq.com",
         "link": "https://bit.ly/tt-balsamiq",
         "tier": 1
-
+    },
+    {
+        "sponsor": "TJX",
+        "logo": "sponsor-logos/TJX.jpg",
+        "blurb": "Transform technology globally at TJX. You’ll be more than a part of our business, you’ll have the opportunity to make an impact on IT. <br/><br/> Our global IT organization collaborates across the U.S., Canada, Europe, and Australia—offering IT talent the unique opportunity to understand different markets and cultural dynamics. <br/><br/> TJX is the leading off-price apparel and home fashions retailer in the U.S. and worldwide, was ranked 80 in the 2020 Fortune 500 company listings. We have more than 4,500 stores in nine countries, four e-commerce sites, and over 320,000 Associates. We operate T.J. Maxx, Marshalls, HomeGoods, Sierra, Winners, Homesense, and T.K. Maxx as well as tjmaxx.com, marshalls.com, sierra.com and tkmaxx.com.",
+        "link": "",
+        "tier": 3
     }
 ]
