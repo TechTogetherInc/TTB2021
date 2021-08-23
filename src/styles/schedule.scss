@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+#schedule {
+    // color: black;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    letter-spacing: 2px;
+    font-weight: bold;
+
+    .scheduleSubcontainer{
+        position: relative;
+        margin: 70px 10%;
+        background-color: $mediumpurple;
+        border: 5px solid black;
+        border-radius: 10px;
+        font-family: "Barlow", sans-serif;
+        // display: inline-flex;
+
+        h2 {
+            color: white;
+            text-align: center;
+            text-transform: uppercase;
+            font-family: "Roboto", sans-serif;
+            font-size: 40px;
+            font-weight: normal;
+        }
+
+        .dateContainer {
+            display: flex;
+
+            .arrow {
+                color: $navyblue;
+                flex: 2.5;
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+                margin: 0;
+                padding: 0;
+
+                .leftArrow {
+                    text-align: right;
+                    padding-right: 3px;
+                }
+
+                .rightArrow {
+                    padding-left: 5px;
+                }
+            }
+
+            .dateSubcontainer {
+                flex: 1;
+                color: white;
+                background-color: $navyblue;
+                border-radius: 10px;
+                text-transform: uppercase;
+
+                p {
+                    text-align: center;
+                }
+            }
+        }
+
+        .eventsContainer {
+            width: 80%;
+            margin: 25px auto;
+            letter-spacing: 1px;
+
+            .event {
+                display: flex;
+                margin: 10px auto 0 auto;
+
+                .eventLeft {
+                    flex: 1;
+                    text-align: center;
+                    padding: 15px 5px 5px 5px;
+
+                    .eventTime {
+
+                    }
+
+                    .eventType {
+                        font-size: 11px;
+                    }
+                }
+
+                .eventRight {
+                    flex: 5;
+                    background-color: white;
+                    padding: 10px;
+                }
+            }
+
+            .eventDescription {
+                border-top: 1px solid gray;
+                padding: 10px;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: $small) and (max-width: $medium) {
+    #schedule {
+
+        .scheduleSubcontainer {
+            
+        }
+    }
+}
+
+@media screen and (max-width: $small) {
+    #schedule {
+
+        .scheduleSubcontainer {
+            
+        }
+    }
+}

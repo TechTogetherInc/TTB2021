@@ -1,0 +1,23 @@
+[
+    {
+        "time": "8:00am",
+        "type": "Workshop",
+        "title": "Pitching your Project 101",
+        "host": "TBA",
+        "description": "eee"
+    },
+    {
+        "time": "9:00am",
+        "type": "Workshop",
+        "title": "Networking Beyond Linkedin",
+        "host": "Jasmine Nuñez",
+        "description": "eee"
+    },
+    {
+        "time": "10:00am",
+        "type": "Panel",
+        "title": "Unconventional Tech Careers",
+        "host": "Elijah Young",
+        "description": "eee"
+    }
+]

@@ -23,6 +23,7 @@ const Footer = () => (
             <a className="codeOfConduct" href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf" target="_blank" rel="noreferrer">Code of Conduct</a>
         </div>
     </section>
-  );
-  export default Footer;
+);
+
+export default Footer;
   

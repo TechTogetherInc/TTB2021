@@ -5,6 +5,7 @@ import Landing from "../components/landing";
 import About from "../components/about";
 import Sponsors from "../components/sponsors";
 import Faq from "../components/faq";
+import Schedule from "../components/schedule";
 import GetInvolved from "../components/getInvolved";
 import Challenges from "../components/challenges";
 import Footer from "../components/footer";
@@ -18,6 +19,7 @@ const IndexPage = () => {
       <About />
       <Challenges />
       <Faq />
+      <Schedule />
       <Sponsors />
       <GetInvolved />
       <Footer />

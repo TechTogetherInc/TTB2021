@@ -1,0 +1,23 @@
+[
+    {
+        "time": "8:00am",
+        "type": "Panel",
+        "title": "Taking your Hackathon Project to the Next Level",
+        "host": "Vaishnavi Dwivedi",
+        "description": "eee"
+    },
+    {
+        "time": "8:00am",
+        "type": "Team Formation",
+        "title": "Team Formation",
+        "host": "the TTB Team",
+        "description": "eee"
+    },
+    {
+        "time": "9:00am",
+        "type": "Workshop",
+        "title": "Intro to Swift",
+        "host": "TBA",
+        "description": "eee"
+    }
+]
