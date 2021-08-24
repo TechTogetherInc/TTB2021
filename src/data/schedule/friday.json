@@ -3,21 +3,18 @@
         "time": "7:00pm",
         "type": "Team Formation",
         "title": "Hackathons 101 + Team Formation",
-        "host": "the TTB Team",
-        "description": "eee"
+        "host": "the TTB Team"
     },
     {
         "time": "8:00pm",
         "type": "Workshop",
         "title": "Intro to Github",
-        "host": "May Márquez",
-        "description": "eee"
+        "host": "May Márquez"
     },
     {
         "time": "8:00pm",
         "type": "Workshop",
         "title": "Using Azure for Your Project",
-        "host": "Microsoft",
-        "description": "eee"
+        "host": "Microsoft"
     }
 ]

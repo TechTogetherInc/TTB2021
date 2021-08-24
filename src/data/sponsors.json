@@ -40,5 +40,12 @@
         "blurb": "Transform technology globally at TJX. You’ll be more than a part of our business, you’ll have the opportunity to make an impact on IT. <br/><br/> Our global IT organization collaborates across the U.S., Canada, Europe, and Australia—offering IT talent the unique opportunity to understand different markets and cultural dynamics. <br/><br/> TJX is the leading off-price apparel and home fashions retailer in the U.S. and worldwide, was ranked 80 in the 2020 Fortune 500 company listings. We have more than 4,500 stores in nine countries, four e-commerce sites, and over 320,000 Associates. We operate T.J. Maxx, Marshalls, HomeGoods, Sierra, Winners, Homesense, and T.K. Maxx as well as tjmaxx.com, marshalls.com, sierra.com and tkmaxx.com.",
         "link": "",
         "tier": 3
+    },
+    {
+        "sponsor": "Khoury College of Computer Sciences",
+        "logo": "sponsor-logos/Khoury.png",
+        "blurb": "In a world where computer science (CS) is everywhere, CS is for everyone. CS crosses every discipline and industry. It’s found in the networks that connect us, the data that fuels discoveries, and the technology that transforms society. That’s why we seek students with diverse backgrounds and perspectives. Whether or not you have tech experience, Khoury College of Computer Sciences is for you—and we’ll provide the knowledge and know-how you need to make an impact.",
+        "link": "",
+        "tier": 4
     }
 ]

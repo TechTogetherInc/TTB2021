@@ -2,14 +2,20 @@
 
 .Modal {
   position: absolute;
-  top: 150px;
-  left: 10%;
-  bottom: 75px;
-  width: 80%;
+  top: 200px;
+  left: 20%;
+  bottom: 150px;
+  width: 60%;
   background-color: white;
   padding: 20px 50px;
   overflow-y: scroll;
   border-radius: 10px;
+  font-family: "Barlow", sans-serif;
+  font-weight: normal;
+
+  div {
+      font-weight: 100;
+  }
 }
 
 .Overlay {
