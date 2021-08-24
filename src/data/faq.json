@@ -30,10 +30,6 @@
     {
       "question": "Will there be swag and prizes?",
       "answer": "TechTogether Boston is donating to local nonprofits in the form of swag this year, but there will be prizes!"
-    },
-    {
-      "question": "I have more questions!",
-      "answer": "We’re happy to answer! Please DM us on Instagram or Twitter, or contact us at info.boston@techtogether.io for any questions/concerns."
     }, 
     {
       "question": "Where do I submit my solution/project?",
@@ -62,5 +58,9 @@
     {
       "question": "How do I find a team to join? ",
       "answer": "All teams must be 2-4 people. While you have the option to work alone, if you want to submit your project you must work with at least one other person. Don’t worry if you don’t have a team—you’ll have plenty of opportunities to find one virtually! TechTogether will be hosting a variety of team formation activities throughout the first day, and we will also have a Discord channel dedicated to team formation leading up to and during the event. We highly encourage that advanced hackers bring on beginner hackers to mentor throughout the event."
+    },
+    {
+      "question": "I have more questions!",
+      "answer": "We’re happy to answer! Please DM us on Instagram or Twitter, or contact us at info.boston@techtogether.io for any questions/concerns."
     }
   ]
