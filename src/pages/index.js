@@ -19,7 +19,7 @@ const IndexPage = () => {
       <About />
       <Challenges />
       <Faq />
-      {/* <Schedule /> */}
+      <Schedule />
       <Sponsors />
       <GetInvolved />
       <Footer />

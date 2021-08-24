@@ -11,7 +11,7 @@ const Faq = () => {
                 <div className="faqSubcontainer">
                     <div className="faqHalfContainer">
                         {faqData.map((data, index) => {
-                            if (index % 2 === 0) {
+                            if (index <= Math.floor(faqData.length / 2)) {
                                 return (
                                 <Dropdown
                                     header={data.question}
@@ -24,7 +24,7 @@ const Faq = () => {
                     
                     <div className="faqHalfContainer" style={{verticalAlign: "top"}}>
                         {faqData.map((data, index) => {
-                            if (index % 2 === 1) {
+                            if (index > Math.floor(faqData.length / 2)) {
                                 return (
                                 <Dropdown
                                     header={data.question}

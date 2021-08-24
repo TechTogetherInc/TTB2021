@@ -21,11 +21,15 @@
     },
     {
       "question": "What skills do I need to participate?",
-      "answer": "Our hackathons are very beginner friendly! We have intro workshops tailored to first-time hackers and a unique high school program to help assimilate all our hackers! If you want to fine tune your skills, <a href='https://www.linkedin.com/posts/techtogetherboston_pythonprojects-python-coding-activity-6702731391915851776-O4rI' target='_blank' style='color: #808cfb'>here</a> are some fun Python projects you can work on."
+      "answer": "Our hackathons are very beginner friendly! We have intro workshops tailored to first-time hackers and a unique high school program to help assimilate all our hackers! If you want to fine tune your skills, <a href='https://www.linkedin.com/posts/techtogetherboston_pythonprojects-python-coding-activity-6702731391915851776-O4rI' target='_blank' rel='noreferrer' style='color: #808cfb'>here</a> are some fun Python projects you can work on."
     },
     {
       "question": "How will teams work?",
-      "answer": "Teams can consist of 2-4 hackers. You can form a team before the hackathon, and there will be Team Formation events on Friday and Saturday to meet other hackers."
+      "answer": "Teams can consist of 2-4 hackers. You can form a team before the hackathon, and there will be Team Formation events on Friday and Saturday to meet other hackers. We highly encourage that advanced hackers bring on beginner hackers to mentor throughout the event."
+    },
+    {
+      "question": "How do I find a team to join? ",
+      "answer": "While you have the option to work alone, if you want to submit your project you must work with at least one other person. Don’t worry if you don’t have a team—you’ll have plenty of opportunities to find one virtually! TechTogether will be hosting a variety of team formation activities throughout the first day, and we will also have a Discord channel dedicated to team formation leading up to and during the event."
     },
     {
       "question": "Will there be swag and prizes?",
@@ -44,8 +48,8 @@
       "answer": "Mentoring will all be done through Discord. To request a mentor, fill out the form on the Discord channel  and a mentor will be in touch with you as soon as they are available!"
     },
     {
-      "question": "I did not get an invite to join discord. How do I get the invite?",
-      "answer": "Register on eventbrite (provide link) and fill out our check-in form. Once everything is filled out, an invite to join the Disocrd will be sent to your email. Make sure to check your spam folder for the invitations."
+      "question": "I did not get an invite to join Discord. How do I get the invite?",
+      "answer": "Register on <a href='https://www.eventbrite.com/e/techtogether-boston-2021-tickets-153573481417' target='_blank' rel='noreferrer' style='color: #808cfb'> Eventbrite</a> and fill out our check-in form. Once everything is filled out, an invite to join the Disocrd will be sent to your email. Make sure to check your spam folder for the invitations."
     },
     {
       "question": "What is the project submission deadline?",
@@ -54,10 +58,6 @@
     {
       "question": "Where can I access workshop recordings?",
       "answer": "Workshop recordings will be available via a Google Drive folder and shared with participants following the completion of the event. So don't worry if you happen to miss one of this weekend's workshops because we got you covered!"
-    },
-    {
-      "question": "How do I find a team to join? ",
-      "answer": "All teams must be 2-4 people. While you have the option to work alone, if you want to submit your project you must work with at least one other person. Don’t worry if you don’t have a team—you’ll have plenty of opportunities to find one virtually! TechTogether will be hosting a variety of team formation activities throughout the first day, and we will also have a Discord channel dedicated to team formation leading up to and during the event. We highly encourage that advanced hackers bring on beginner hackers to mentor throughout the event."
     },
     {
       "question": "I have more questions!",
