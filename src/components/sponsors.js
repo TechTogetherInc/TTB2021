@@ -72,7 +72,7 @@ const BackgroundSection = ({className}) => {
                 {(() => {
                   switch (sponsorLink) {
                     case "":   return sponsorName;
-                    default:   return <a style={{color: "#707AD9"}} href={sponsorLink} target="_blank">{sponsorName}</a>
+                    default:   return <a href={sponsorLink} target="_blank">{sponsorName}</a>
                   }
                 })()}
               </h1>
