@@ -1,20 +1,122 @@
 [
     {
         "time": "8:00am",
-        "type": "Panel",
+        "type": "Workshop",
         "title": "Taking your Hackathon Project to the Next Level",
         "host": "Vaishnavi Dwivedi"
     },
     {
         "time": "9:00am",
         "type": "Workshop",
-        "title": "Intro to Swift",
-        "host": "TBA"
+        "title": "How to Create a Job-Ready Resume",
+        "host": "Jennifer Cosenza"
     },
     {
         "time": "10:00am",
-        "type": "Panel",
-        "title": "Intro to Project Management",
+        "type": "Workshop",
+        "title": "Microsoft Workshop/Panel",
         "host": "Microsoft"
+    },
+    {
+        "time": "11:00am",
+        "type": "Panel",
+        "title": "Interdisciplinary Tech",
+        "host": "Vicki Lau, Abigayle Peterson, Nia Asemota, Jacky Huang, Mieko Kawasaki"
+    },
+    {
+        "time": "11:00am",
+        "type": "Workshop",
+        "title": "Intro to Python (Building a Project for Your Resume)",
+        "host": "Kann Tan"
+    },
+    {
+        "time": "12:00pm",
+        "type": "Workshop",
+        "title": "Interview Preparation",
+        "host": "Jennifer Cosenza"
+    },
+    {
+        "time": "12:00pm",
+        "type": "Workshop",
+        "title": "Developing a Minimum Viable Product",
+        "host": "Mike Deng"
+    },
+    {
+        "time": "1:00pm",
+        "type": "Panel",
+        "title": "How did I Get to Where I Am - An Entrepreneurs Guide",
+        "host": "Janice Dru-Bennet,  Jasmine Lawrence, Enrique Torres"
+    },
+    {
+        "time": "1:00pm",
+        "type": "Panel",
+        "title": "Intro to All-Things Data",
+        "host": "Wanxin Ye, Leila Ouellaj, My Nguyen"
+    },
+    {
+        "time": "2:00pm",
+        "type": "Panel",
+        "title": "Diversity in Tech",
+        "host": "TBA"
+    },
+    {
+        "time": "3:00pm",
+        "type": "Workshop",
+        "title": "Intro to Machine Learning",
+        "host": "Kapil Yadav"
+    },
+    {
+        "time": "4:00pm",
+        "type": "Panel",
+        "title": "Ethics in Tech",
+        "host": "TBA"
+    },
+    {
+        "time": "5:00pm",
+        "type": "Panel",
+        "title": "Using Tech to Impact Your Community",
+        "host": "Mingjie Jiang, Vivian Wang, Abbey Mui, Danielle Egan, Anjali"
+    },
+    {
+        "time": "6:00pm",
+        "type": "Workshop",
+        "title": "Intro to Swift",
+        "host": "Mikaela Caron"
+    },
+    {
+        "time": "7:00pm",
+        "type": "Workshop",
+        "title": "How to Build a Professional Portfolio",
+        "host": "Helen Huang"
+    },
+    {
+        "time": "8:00pm",
+        "type": "Workshop",
+        "title": "Intro to AR",
+        "host": "Sanjit"
+    },
+    {
+        "time": "9:00pm",
+        "type": "Workshop",
+        "title": "Developing a Product Sense",
+        "host": "Ramona Arora"
+    },
+    {
+        "time": "10:00pm",
+        "type": "Panel",
+        "title": "Networking Beyond LinkedIn",
+        "host": "Jasmine Nuñez"
+    },
+    {
+        "time": "11:00pm",
+        "type": "Activity",
+        "title": "Fun Activity (TBA)",
+        "host": "TechTogether Organizer"
+    },
+    {
+        "time": "12:00am",
+        "type": "Activity",
+        "title": "Fun Activity (TBA)",
+        "host": "TechTogether Organizer"
     }
 ]

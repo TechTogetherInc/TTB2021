@@ -47,5 +47,11 @@
         "blurb": "In a world where computer science (CS) is everywhere, CS is for everyone. CS crosses every discipline and industry. It’s found in the networks that connect us, the data that fuels discoveries, and the technology that transforms society. That’s why we seek students with diverse backgrounds and perspectives. Whether or not you have tech experience, Khoury College of Computer Sciences is for you—and we’ll provide the knowledge and know-how you need to make an impact.",
         "link": "",
         "tier": 4
+    },
+    { "sponsor": "Hackathon Mentors",
+        "logo": "sponsor-logos/HackathonMentors.png",
+        "blurb": " ",
+        "link": "https://hackathonmentors.org/",
+        "tier": 4
     }
 ]
