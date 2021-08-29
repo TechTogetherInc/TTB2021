@@ -3,18 +3,33 @@
         "time": "8:00am",
         "type": "Workshop",
         "title": "Pitching your Project 101",
-        "host": "TBA"
+        "host": "Sushree Satarupa"
     },
     {
         "time": "9:00am",
         "type": "Workshop",
-        "title": "Networking Beyond Linkedin",
-        "host": "Jasmine Nuñez"
+        "title": "Getting an Internship as a Starved College Student!",
+        "host": "Cristie Huang"
     },
     {
         "time": "10:00am",
         "type": "Panel",
         "title": "Unconventional Tech Careers",
-        "host": "Elijah Young"
+        "host": "Ravina Anand, Tameka Vasquez and Laura Reever "
+    },
+    {   "time": "11:00am",
+        "type": "Panel",
+        "title": "Breaking into the Cybersecurity Field",
+        "host": "Kyle Suero, Becky Pinkard and Sivan Tehila"
+    },
+    {   "time": "12:00pm",
+        "type": "Panel",
+        "title": "Microsoft Workshop/Panel",
+        "host": "TBA"
+    },
+    {   "time": "1:00pm",
+        "type": "Workshop",
+        "title": "Intro to Game Development",
+        "host": "Joanie Kraut and Geneva Heyward"
     }
 ]

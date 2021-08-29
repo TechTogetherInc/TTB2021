@@ -1,20 +1,62 @@
 [
     {
-        "time": "7:00pm",
+        "time": "6:00pm",
         "type": "Team Formation",
         "title": "Hackathons 101 + Team Formation",
         "host": "the TTB Team"
     },
     {
-        "time": "8:00pm",
+        "time": "7:00pm",
         "type": "Workshop",
-        "title": "Intro to Github",
+        "title": "Intro to Github and Git",
         "host": "May Márquez"
+    },
+    {
+        "time": "7:00pm",
+        "type": "Workshop",
+        "title": "Intro to HTML/CSS",
+        "host": "Gabriella Miesner"
     },
     {
         "time": "8:00pm",
         "type": "Workshop",
         "title": "Intro to MERN Stack",
-        "host": "Zhen Jiang"
+        "host": "Aadit Kamat"
+    },
+    {
+        "time": "9:00pm",
+        "type": "Workshop",
+        "title": "Intro to Prototyping/Wireframing For Your Project",
+        "host": "Deborah Mepaiyeda"
+    },
+    {
+        "time": "9:00pm",
+        "type": "Workshop",
+        "title": "Intro to MERN Stack",
+        "host": "Zhen(Victor) Jiang"
+    },
+    {
+        "time": "10:00pm",
+        "type": "Workshop",
+        "title": "Microsoft Workshop/Panel",
+        "host": "Microsoft"
+    },
+    {
+        "time": "11:00pm",
+        "type": "Team Formation",
+        "title": "Team Formation",
+        "host": "the TTB Team"
+    },
+    {
+        "time": "12:00am",
+        "type": "Activity",
+        "title": "Fun Activity",
+        "host": "the TTB Team"
+    },
+    {
+        "time": "1:00am",
+        "type": "Activity",
+        "title": "Fun Activity",
+        "host": "the TTB Team"
     }
 ]
