@@ -81,7 +81,8 @@ const BackgroundSection = ({className}) => {
 
             <div className="sponsorLogoContainer">
               {Array.from(Array(10).keys()).map(index => 
-                <div className="sponsorLogoSubcontainer" key={index}>
+              <>
+                {/* <div className="sponsorLogoSubcontainer" key={index} style={{border:"1px solid red"}}> */}
                   {sponsorsData.map((data) => {
                     if (index === data.tier){
                       return (
@@ -93,7 +94,8 @@ const BackgroundSection = ({className}) => {
                       )
                     }
                   })}
-                </div>
+                {/* </div> */}
+                </>
               )}
             </div>
 

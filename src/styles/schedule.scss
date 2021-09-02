@@ -27,6 +27,14 @@
             font-weight: normal;
         }
 
+        h3 {
+            color: white;
+            text-align: center;
+            font-style: italic;
+            font-family: "Barlow", sans-serif;
+            margin-bottom: 10px;
+        }
+
         .dateContainer {
             display: flex;
 
@@ -55,7 +63,7 @@
                 background-color: $navyblue;
                 border-radius: 10px;
                 text-transform: uppercase;
-                padding: 5px 0;
+                padding: 5px;
 
                 p {
                     text-align: center;

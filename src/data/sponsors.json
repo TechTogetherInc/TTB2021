@@ -14,25 +14,62 @@
         "tier": 1
     },
     {
+        "sponsor": "Balsamiq",
+        "logo": "sponsor-logos/Balsamiq.png",
+        "blurb": "UX is an exciting, fast-growing, high-paying, impactful discipline. But where do you start? Start with Balsamiq! Balsamiq Wireframes is the perfect first UX design tool for anyone interested in getting into UX. It's by far the most approachable: you just drag, drop, and arrange controls on the page, and voila', you made your first User Interface! They even have online courses and articles to teach you all about UI design and wireframing. Balsamiq is free for classroom use, and very affordable for anyone else. Kick-start your UX career at balsamiq.com",
+        "link": "https://bit.ly/tt-balsamiq",
+        "tier": 1
+    },
+    {
         "sponsor": "Boston University",
         "logo": "sponsor-logos/BU.png",
         "blurb": "Boston University is a leading private research institution with two primary campuses in the heart of Boston and programs around the world.",
         "link": "https://bit.ly/tt-bu-admissions",
-        "tier": 2
+        "tier": 1
     },
     {
         "sponsor": "Spark",
         "logo": "sponsor-logos/Spark.png",
         "blurb": "Housed in the Faculty of Computing & Data Sciences, Spark! is the technology incubator and experiential learning lab for student led computational and data driven projects at Boston University.",
         "link": "https://bit.ly/tt-spark",
-        "tier": 2
+        "tier": 1
     },
     {
-        "sponsor": "Balsamiq",
-        "logo": "sponsor-logos/Balsamiq.png",
-        "blurb": "UX is an exciting, fast-growing, high-paying, impactful discipline. But where do you start? Start with Balsamiq! Balsamiq Wireframes is the perfect first UX design tool for anyone interested in getting into UX. It's by far the most approachable: you just drag, drop, and arrange controls on the page, and voila', you made your first User Interface! They even have online courses and articles to teach you all about UI design and wireframing. Balsamiq is free for classroom use, and very affordable for anyone else. Kick-start your UX career at balsamiq.com",
-        "link": "https://bit.ly/tt-balsamiq",
-        "tier": 1
+        "sponsor": "Facebook",
+        "logo": "sponsor-logos/Facebook.png",
+        "blurb": "Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.",
+        "link": "",
+        "tier": 2
+    },
+    { "sponsor": "Qualcomm",
+        "logo": "sponsor-logos/Qualcomm.jpg",
+        "blurb": "Before there were smartphones or smart cities, before autonomous cars or 360° virtual reality videos, there was our technology. Qualcomm inventions are the foundational technologies that others build upon—inventing new industries and applications that have global impact. From 5G to artificial intelligence, from IoT to automotive and extended reality applications, Qualcomm is inventing the technologies the world loves. <br/> <br/>At Qualcomm, students and college graduates jump right into next-generation technologies that are changing the wireless world. In a world where power and capabilities keep increasing to compete with other leading companies in the industry, Qualcomm knocks out its competition in almost every category.",
+        "link": "https://www.qualcomm.com/",
+        "tier": 2
+    },
+    { "sponsor": "MassMutual",
+        "logo": "sponsor-logos/MassMutual.png",
+        "blurb": "MassMutual is an American mutual life insurance company serving over five million clients. Our mission for the past 170 years has always been to help people secure their future and protect their loved ones. We have a strong tech focus with which we are leading the life insurance industry in easing the application process for consumers. Come talk to us at our discord booth to learn about our many introductory career opportunities, including the Data Science Development Program, Data Engineering Development Program, and Site Reliability Engineering Development Program!",
+        "link": "",
+        "tier": 2
+    },
+    { "sponsor": "Pegasystems",
+        "logo": "sponsor-logos/Pegasystems.jpg",
+        "blurb": "Hi, we're Pegasystems. But you can call us Pega. Hi, we're Pegasystems. But you can call us Pega.Looking for innovative software that crushes business complexity? A growing company with a deep commitment to our clients and communities? You've come to the right place. Join us as we help the world’s biggest brands simplify how they do business.",
+        "link": "https://www.pega.com/",
+        "tier": 2
+    },
+    { "sponsor": "Progress Software",
+        "logo": "sponsor-logos/Progress.png",
+        "blurb": "People power progress. As the experienced, trusted provider of the best products to develop, deploy and manage high-impact applications and business systems, we propel businesses. We embrace inclusion and diversity. We encourage contributions to social, community and environmental causes. And the sense of pride we feel when we deliver products grows with our customers’ success.",
+        "link": "",
+        "tier": 3
+    },
+    { "sponsor": "Massachusetts Technology Collaborative",
+        "logo": "sponsor-logos/MassTech.png",
+        "blurb": "As a unique public agency, MassTech strengthens the competitiveness of the tech and innovation economy by driving strategic investments, partnerships, and insights that harness the talent of Massachusetts. We support internships at Massachusetts’ tech start-ups through our Intern Partnership, match aspiring undergraduates with cybersecurity professionals through our Cybersecurity Mentorship Program, and support programs that expand the inclusiveness of the Commonwealth’s tech workforce through our Tech Talent Diversity Initiative. Learn more at <a href='http://www.masstech.org'>www.masstech.org</a>.",
+        "link": "http://www.masstech.org",
+        "tier": 3
     },
     {
         "sponsor": "TJX",
@@ -50,8 +87,8 @@
     },
     { "sponsor": "Hackathon Mentors",
         "logo": "sponsor-logos/HackathonMentors.png",
-        "blurb": " ",
+        "blurb": "",
         "link": "https://hackathonmentors.org/",
-        "tier": 4
+        "tier": 6
     }
 ]
