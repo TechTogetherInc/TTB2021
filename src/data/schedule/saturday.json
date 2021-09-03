@@ -118,5 +118,11 @@
         "type": "Activity",
         "title": "Fun Activity (TBA)",
         "host": "TechTogether Organizer"
+    },
+    {
+        "time": "2:00 - 4:00pm",
+        "type": "Activity",
+        "title": "Career Fair",
+        "host": "TechTogether Organizer"
     }
 ]
