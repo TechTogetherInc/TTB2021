@@ -109,7 +109,7 @@ const BackgroundSection = ({className}) => {
 }
 
 const Sponsors = styled(BackgroundSection)`
-    height: 900px;
+    height: 1350px;
     width: 100%;
     background-position: bottom center;
     background-repeat: repeat-y;

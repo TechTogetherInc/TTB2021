@@ -87,8 +87,68 @@
     },
     { "sponsor": "Hackathon Mentors",
         "logo": "sponsor-logos/HackathonMentors.png",
-        "blurb": "",
+        "blurb": " ",
         "link": "https://hackathonmentors.org/",
-        "tier": 6
+        "tier": 5
+    },
+    { "sponsor": "CodeDay",
+        "logo": "sponsor-logos/CodeDay_Color.png",
+        "blurb": " ",
+        "link": "https://www.codeday.org/",
+        "tier": 5
+    },
+    { "sponsor": "Flik",
+        "logo": "sponsor-logos/Flik_White.png",
+        "blurb": " ",
+        "link": "https://weareflik.com/",
+        "tier": 5
+    },
+    { "sponsor": "Digital Page",
+        "logo": "sponsor-logos/DigitalPage_LogoWhite.png",
+        "blurb": " ",
+        "link": "https://digitalpage.org/",
+        "tier": 5
+    },
+    { "sponsor": "Careers Decoded",
+        "logo": "sponsor-logos/CareersDecoded_Logo.jpg",
+        "blurb": " ",
+        "link": "https://www.careersdecoded.com/",
+        "tier": 5
+    },
+    { "sponsor": "Margot Community",
+        "logo": "sponsor-logos/MargotCommunity_ColorLogo.png",
+        "blurb": " ",
+        "link": "https://www.margotcommunity.com/",
+        "tier": 5
+    },
+    { "sponsor": "Hack Diversity Alumni Council",
+        "logo": "sponsor-logos/HackDiversityAlumniCouncil_WhiteLogo.jpg",
+        "blurb": " ",
+        "link": "https://www.hackdiversity.com/",
+        "tier": 5
+    },
+    { "sponsor": "Decrypted by Us",
+        "logo": "sponsor-logos/DecryptedByUs_WhiteTransparentLogo.png",
+        "blurb": " ",
+        "link": "https://beacons.ai/decryptedbyus",
+        "tier": 5
+    },
+    { "sponsor": "Envision Accelerator",
+        "logo": "sponsor-logos/EnvisionAccelerator_Logo.png",
+        "blurb": " ",
+        "link": "https://www.envisionaccelerator.com/",
+        "tier": 5
+    },
+    { "sponsor": "TKS",
+        "logo": "sponsor-logos/TKS_WhiteLogo.png",
+        "blurb": " ",
+        "link": "https://tks.world/",
+        "tier": 5
+    },
+    { "sponsor": "Code Art",
+        "logo": "sponsor-logos/Code-Art_WhiteLogo.png",
+        "blurb": " ",
+        "link": "https://code-art.com/",
+        "tier": 5
     }
 ]
