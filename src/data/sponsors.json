@@ -85,12 +85,6 @@
         "link": "",
         "tier": 4
     },
-    { "sponsor": "Hackathon Mentors",
-        "logo": "sponsor-logos/HackathonMentors.png",
-        "blurb": " ",
-        "link": "https://hackathonmentors.org/",
-        "tier": 5
-    },
     { "sponsor": "CodeDay",
         "logo": "sponsor-logos/CodeDay_Color.png",
         "blurb": " ",
@@ -150,5 +144,11 @@
         "blurb": " ",
         "link": "https://code-art.com/",
         "tier": 5
+    },
+    { "sponsor": "Hackathon Mentors",
+        "logo": "sponsor-logos/HackathonMentors.png",
+        "blurb": " ",
+        "link": "https://hackathonmentors.org/",
+        "tier": 6
     }
 ]
