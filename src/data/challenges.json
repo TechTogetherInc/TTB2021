@@ -2,16 +2,16 @@
     {
         "challenge": "Best Social Hack",
         "image": "challenges/chat.png",
-        "description": "Use this hack to allow people to get outside of their comfort zone and connect with new people."
+        "description": "Use this hack to allow people to get out of their comfort zones and connect with new people."
     },
     {
         "challenge": "Best Interdisciplinary Hack",
         "image": "challenges/connection.png",
-        "description": "Use this hack to get outside of your comfort zone in tech and creatively combine your technical interests with those that exist beyond tech."
+        "description": "Use this hack to get out of your comfort zone in tech, and creatively combine your interest that exists beyond tech."
     },
     {
         "challenge": "Best Disruptive Hack",
         "image": "challenges/weight.png",
-        "description": "Use this hack to allow people to get outside of their comfort zone and connect with new people."
+        "description": "Use this hack to push ideas out of their comfort zones and innovate something new that interrupts the norm."
     }
 ]
