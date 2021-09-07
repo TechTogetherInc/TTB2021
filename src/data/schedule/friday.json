@@ -3,60 +3,70 @@
         "time": "6:00pm",
         "type": "Team Formation",
         "title": "Hackathons 101 + Team Formation",
-        "host": "the TTB Team"
+        "host": "the TTB Team",
+        "description": "First time venturing in a hackathon? Catch this workshop to learn the in's and out's of the hackathon, as well as find a team to bring your project ambitions to life!"
     },
     {
         "time": "7:00pm",
         "type": "Workshop",
-        "title": "Intro to Github and Git",
-        "host": "May Márquez"
+        "title": "Code Collaboration 101 - Guide to Github and Git",
+        "host": "May Márquez",
+        "description": "Want to work with other adventurers for your project? This workshop will teach you how to smoothly collaborate on coding using Git and Github!"
     },
     {
         "time": "7:00pm",
         "type": "Workshop",
-        "title": "Intro to HTML/CSS",
-        "host": "Gabriella Miesner"
+        "title": "Web Development 101 Series - HTML + CSS",
+        "host": "Gabriella Miesner",
+        "description": "Creating a website can be overwhelming! In the first part of the Web Dev 101 Series, you'll learn HTML and CSS to build the backbone of your site."
     },
     {
         "time": "8:00pm",
         "type": "Workshop",
-        "title": "Intro to Javascript",
-        "host": "Aadit Kamat"
+        "title": "Web Development 101 Series - Javascript",
+        "host": "Aadit Kamat",
+        "description": "Following the first part of the Web Dev 101 Series, you'll learn to use Javascript to make your website interactive!"
     },
     {
         "time": "9:00pm",
         "type": "Workshop",
-        "title": "Intro to Prototyping/ Wireframing For Your Project",
-        "host": "Deborah Mepaiyeda"
+        "title": "Prototyping/Wireframing For Your Project with Figma",
+        "host": "Deborah Mepaiyeda",
+        "description": "Planning is an important part before embarking on your adventure! Here, you'll learn to plan out your project through (prototyping) with Figma!"
     },
     {
         "time": "9:00pm",
         "type": "Workshop",
-        "title": "Intro to MERN Stack",
-        "host": "Zhen (Victor) Jiang"
+        "title": "Web Development 101 Series - MERN Stack",
+        "host": "Zhen (Victor) Jiang",
+        "description": "In the final part of the Web Dev 101 Series, you'll learn all about the elusive MERN Stack that maximizes your website's potential!"
     },
     {
         "time": "10:00pm",
         "type": "Workshop",
         "title": "Microsoft Workshop/Panel",
-        "host": "Microsoft"
+        "host": "Microsoft",
+        "description": ""
     },
     {
         "time": "11:00pm",
         "type": "Team Formation",
         "title": "Team Formation",
-        "host": "the TTB Team"
+        "host": "the TTB Team",
+        "description": ""
     },
     {
         "time": "12:00am",
         "type": "Activity",
-        "title": "Fun Activity",
-        "host": "the TTB Team"
+        "title": "Game Night - Uno, Bingo, Spyfall, Gartic Phone",
+        "host": "the TTB Team",
+        "description": ""
     },
     {
         "time": "1:00am",
         "type": "Activity",
-        "title": "Fun Activity",
-        "host": "the TTB Team"
+        "title": "Movie Night - Shang Chi/The Internship",
+        "host": "the TTB Team",
+        "description": ""
     }
 ]

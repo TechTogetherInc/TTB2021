@@ -3,33 +3,39 @@
         "time": "8:00am",
         "type": "Workshop",
         "title": "Pitching your Project 101",
-        "host": "Sushree Satarupa"
+        "host": "Sushree Satarupa",
+        "description": "Presenting and pitching can be scary. But with this workshop, you'll master elevator pitches in no time!"
     },
     {
         "time": "9:00am",
-        "type": "Workshop",
-        "title": "Getting an Internship as a Starved College Student!",
-        "host": "Cristie Huang"
+        "type": "Panel",
+        "title": "Landing your Dream Internship",
+        "host": "Cristie Huang, Hana Memon, Isabel Abonitalla, Allison Tamayo",
+        "description": "Dying to land that internship that you desperately want? Join us in this panel to learn more about how you can maximize your chances to landing that dream internship!"
     },
     {
         "time": "10:00am",
         "type": "Panel",
         "title": "Unconventional Tech Careers",
-        "host": "Ravina Anand, Tameka Vasquez and Laura Reever "
+        "host": "Ravina Anand, Tameka Vasquez and Laura Reever",
+        "description": "Want to work in tech, but don't want to do the usual software engineering or product management? Tune into this panel to learn about the tech careers you've probably never heard of."
     },
     {   "time": "11:00am",
         "type": "Panel",
         "title": "Breaking into the Cybersecurity Field",
-        "host": "Kyle Suero, Becky Pinkard and Sivan Tehila"
+        "host": "Kyle Suero, Becky Pinkard and Sivan Tehila",
+        "description": "Cybersecurity jobs are known to be the highest paying in the tech space. Join us in this panel to learn more about how you can 'break into' the cybersecurity space."
     },
     {   "time": "12:00pm",
         "type": "Panel",
         "title": "Microsoft Workshop/Panel",
-        "host": "TBA"
+        "host": "Microsoft",
+        "description": ""
     },
     {   "time": "1:00pm",
-        "type": "Workshop",
-        "title": "Intro to Game Development",
-        "host": "Joanie Kraut and Geneva Heyward"
+        "type": "Panel",
+        "title": "Gaming Your Way In: Game Development 101",
+        "host": "Joanie Kraut, Geneva Heyward, Renee Gittins",
+        "description": "Love games, and you're curious about how to one makes them? Here, you'll learn how to 'game your way into' the gaming space, even if you might not be the best coder!"
     }
 ]

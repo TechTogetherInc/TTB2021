@@ -1,128 +1,149 @@
 [
     {
         "time": "8:00am",
-        "type": "Workshop",
+        "type": "Panel",
         "title": "Taking your Hackathon Project to the Next Level",
-        "host": "Rakshaa Viswanathan"
+        "host": "Rakshaa Viswanathan",
+        "description": "Your adventure doesn't stop when the hackathon ends. Learn how you can maximize your project's full potential beyond the hackathon."
     },
     {
         "time": "9:00am",
         "type": "Workshop",
         "title": "How to Create a Job-Ready Resume",
-        "host": "Jennifer Cosenza"
+        "host": "Jennifer Cosenza",
+        "description": "Nervous about taking up your first job adventure? Don't fret, this workshop will teach out all you need to know about preparing your resume."
     },
     {
         "time": "10:00am",
         "type": "Workshop",
         "title": "Microsoft Workshop/Panel",
-        "host": "Microsoft"
+        "host": "Microsoft",
+        "description": ""
     },
     {
         "time": "11:00am",
         "type": "Panel",
-        "title": "Interdisciplinary Tech",
-        "host": "Vicki Lau, Abigayle Peterson, Nia Asemota, Jacky Huang, Mieko Kawasaki"
+        "title": "_____ x Tech - The Interdisciplinary Nature of Tech",
+        "host": "Vicki Lau, Abigayle Peterson, Nia Asemota, Jacky Huang, Mieko Kawasaki",
+        "description": "Want to work with tech, but not in tech? This panel showcases individuals who take a different spin with tech and turn it into their own powerful tools!"
     },
     {
         "time": "11:00am",
         "type": "Workshop",
-        "title": "Intro to Python (Building a Project for Your Resume)",
-        "host": "Kann Tan"
+        "title": "Building a Project for Your Resume with Python",
+        "host": "Kann Tan",
+        "description": "Want to build experience before taking you first adventure? You'll learn how to use Python to create a project to show off to your potential employer!"
     },
     {
         "time": "12:00pm",
         "type": "Workshop",
-        "title": "Interview Preparation",
-        "host": "Jennifer Cosenza"
+        "title": "Guide to Preparing for Your Interview",
+        "host": "Jennifer Cosenza",
+        "description": "Nervous about taking up your first job adventure? Don't fret, this workshop will teach out all you need to know about preparing for that scary interview."
     },
     {
         "time": "12:00pm",
         "type": "Workshop",
-        "title": "Developing a Minimum Viable Product",
-        "host": "Mike Deng"
+        "title": "How to Develop a Minimum Viable Product",
+        "host": "Mike Deng",
+        "description": "MVP? Minimum Viable Product! Although a mysterious word used in the world of tech, you'll soon learn it's not that mysterious at all."
     },
     {
         "time": "1:00pm",
         "type": "Panel",
-        "title": "How did I Get to Where I Am - An Entrepreneurs Guide",
-        "host": "Janice Dru-Bennet,  Jasmine Lawrence, Enrique Torres"
+        "title": "How did I Get to Where I Am - An Entrepreneur's Guide",
+        "host": "Janice Dru-Bennet, Jasmine Lawrence, Enrique Torres",
+        "description": "Wonder how entrepreneurs become successful running their business in the vicious and cut-throat tech space? Tune into these panelists to learn about their journey to becoming successful business leaders."
     },
     {
         "time": "1:00pm",
         "type": "Panel",
-        "title": "Intro to All-Things Data",
-        "host": "Wanxin Ye, Leila Ouellaj, My Nguyen"
+        "title": "Data 101 - Analytics, Science and Engineering",
+        "host": "Wanxin Ye, Leila Ouellaj, My Nguyen",
+        "description": "Data where? Data everywhere! Here at Data 101, you'll get to meet people working in all different data industries and roles!"
     },
     {
         "time": "2:00pm",
         "type": "Panel",
         "title": "Diversity in Tech",
-        "host": "TBA"
+        "host": "Wendy Cukier, Muna Khayyat, Srujani Kamineni, Manjiri Tapaswi",
+        "description": "Wanting to venture into tech, but you don't see many that are like you? Come and meet people from different underrepresented backgrounds who are thriving in tech!"
+    },
+    {
+        "time": "2:00 - 4:00pm",
+        "type": "Activity",
+        "title": "Career Fair",
+        "host": "Facebook, Qualcomm, and Pegasystems",
+        "description": ""
     },
     {
         "time": "3:00pm",
         "type": "Workshop",
-        "title": "Intro to Machine Learning",
-        "host": "Kapil Yadav"
+        "title": "Guide to Machine Learning For Your Project",
+        "host": "Kapil Yadav",
+        "description": "If you want to spice up your project, don't walk but run to this workshop where we'll teach you how to implement machine learning to your projects!"
     },
     {
         "time": "4:00pm",
         "type": "Panel",
         "title": "Ethics in Tech",
-        "host": "TBA"
+        "host": "Doaa Abu-Elyounes, Shalaleh Rismani, Briony Swire-Thompson, Samamtha Weiner",
+        "description": ""
     },
     {
         "time": "5:00pm",
         "type": "Panel",
         "title": "Using Tech to Impact Your Community",
-        "host": "Mingjie Jiang, Vivian Wang, Abbey Mui, Danielle Egan, Anjali"
+        "host": "Megan Cui, Abbey Mui, Danielle Egan, Anjali",
+        "description": ""
     },
     {
         "time": "6:00pm",
         "type": "Workshop",
-        "title": "Intro to Swift",
-        "host": "Mikaela Caron"
+        "title": "App Development 101 with Swift",
+        "host": "Mikaela Caron",
+        "description": "Want to build an app, but don't know where to start? Prepare to get 'Swift'-ed away in this workshop where you'll learn how to start building an app with Swift."
     },
     {
         "time": "7:00pm",
         "type": "Workshop",
         "title": "How to Build a Professional Portfolio",
-        "host": "Helen Huang"
+        "host": "Helen Huang",
+        "description": "Nervous about taking up your first job adventure? Don't fret, this workshop will teach out all you need to know about preparing a bomb portfolio!"
     },
     {
         "time": "8:00pm",
         "type": "Workshop",
-        "title": "Intro to AR",
-        "host": "Sanjit"
+        "title": "Intro to Augmented Reality",
+        "host": "Sanjit Singh",
+        "description": "Inspired by Pokemon Go's AR? Take up this workshop to learn more about AR technology and how to use it in your projects."
     },
     {
         "time": "9:00pm",
         "type": "Workshop",
-        "title": "Developing a Product Sense",
-        "host": "Ramona Arora"
+        "title": "How to Develop a Product Sense",
+        "host": "Ramona Arora",
+        "description": "Don't know how to start using data to create an impact? This workshop will give you an insight into how data can truly empower products and humans."
     },
     {
         "time": "10:00pm",
-        "type": "Panel",
+        "type": "Workshop",
         "title": "Networking Beyond LinkedIn",
-        "host": "Jasmine Nuñez"
+        "host": "Jasmine Nuñez",
+        "description": "You're probably not using LinkedIn right with all those failed connections. Take this workshop to learn how you can better network within and beyond LinkedIn."
     },
     {
         "time": "11:00pm",
         "type": "Activity",
-        "title": "Fun Activity (TBA)",
-        "host": "TechTogether Organizer"
+        "title": "Quick! Pitch Me!",
+        "host": "TechTogether Organizer",
+        "description": ""
     },
     {
         "time": "12:00am",
         "type": "Activity",
-        "title": "Fun Activity (TBA)",
-        "host": "TechTogether Organizer"
-    },
-    {
-        "time": "2:00 - 4:00pm",
-        "type": "Career Fair",
-        "title": "Career Fair",
-        "host": "Facebook, Qualcomm, and Pegasystems"
+        "title": "Painting Night",
+        "host": "TechTogether Organizer",
+        "description": ""
     }
 ]
