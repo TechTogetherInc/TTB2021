@@ -8,7 +8,7 @@ const Event = ({color, time, type, title, host, description}) => {
 
     return (
         <div className="eventContainer">
-            <div className="event">
+            <div className="event" onClick={toggle}>
                 <div className="eventLeft" style={{ backgroundColor: color }}>
                     <div className="eventTime">{time}</div>
                     <div className="eventType">{type}</div>
