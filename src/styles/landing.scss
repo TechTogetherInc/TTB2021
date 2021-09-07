@@ -33,6 +33,11 @@
                     p {
                         font-size: 25px;
                     }
+
+                    a {
+                        padding: 7px 20px;
+                        font-size: 20px;
+                    }
                 }
             }
 
@@ -51,6 +56,10 @@
         .landingSubcontainer {
             margin: auto;
             width: 500px;
+
+            .landingText .landingTextChild .landingInfo a {
+                font-size: 17px;
+            }
         }
 
         .byteImages {
@@ -80,6 +89,11 @@
 
                         p {
                             font-size: 17px;
+                        }
+
+                        a {
+                            padding: 7px 20px;
+                            font-size: 15px;
                         }
                     }
                 }

@@ -45,6 +45,17 @@ const BackgroundSection = ({className}) => {
                 <a type="button" href="https://www.eventbrite.com/e/153573481417" target="_blank" rel="noreferrer">
                   Register
                 </a>
+                {/* <a type="button" href="https://techtogether-boston.devpost.com/" target="_blank" rel="noreferrer">
+                  View Challenges
+                </a>
+                <br/><br/>
+                <a type="button" href="https://techtogether-boston.devpost.com/" target="_blank" rel="noreferrer">
+                  Submit Project
+                </a>
+                <br/><br/>
+                <a type="button" href="https://drive.google.com/drive/folders/1RmFhnCQjvI0EaBnVOEaF-JICV_wUrtLh" target="_blank" rel="noreferrer">
+                  Workshop Recordings
+                </a> */}
               </div>
             </div>
           </div>
