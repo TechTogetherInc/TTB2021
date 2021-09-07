@@ -21,7 +21,7 @@ const IndexPage = () => {
       <Faq />
       <Schedule />
       <Sponsors />
-      <GetInvolved />
+      {/* <GetInvolved /> */}
       <Footer />
     </Layout>
   )

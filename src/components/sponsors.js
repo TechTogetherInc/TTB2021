@@ -100,7 +100,7 @@ const BackgroundSection = ({className}) => {
             </div>
 
             <div className="byteImages">
-                <img src={byteTelescope} alt="byte-image-with-telescope" style={{width: 175, position: "absolute", bottom:"0", right:"0"}}/>
+                <img src={byteTelescope} alt="byte-image-with-telescope" style={{width: 150, position: "absolute", bottom:"0", right:"-100px"}}/>
             </div>
           </div>
       </section>
