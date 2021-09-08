@@ -42,7 +42,7 @@ const Schedule = () => {
         <section id="schedule">
             <div className="scheduleSubcontainer">
                 <h2>Schedule</h2>
-                <h3>Click on each event to view its description, all times are in EDT</h3>
+                <h3>All times are in EDT</h3>
 
                 <div className="dateContainer">
                     <div className="arrow" onClick={leftClick}><span className="leftArrow">&#9664;</span></div>

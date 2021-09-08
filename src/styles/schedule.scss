@@ -99,6 +99,18 @@
                     background-color: white;
                     padding: 10px;
                 }
+
+                .svgContainer {
+                    flex: 1;
+                    width: 30px;
+                    float: right;
+
+                    svg {
+                        float: right;
+                        width: 30px;
+                        fill: black;
+                    }
+                }
             }
 
             .eventDescription {

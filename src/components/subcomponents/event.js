@@ -16,7 +16,18 @@ const Event = ({color, time, type, title, host, description}) => {
                 <div className="eventRight">
                     <div className="eventTitle">{title}</div>
                     <div className="eventHost">with {host}</div>
+
+                    <div className="svgContainer">
+                        <svg viewBox="0 0 24 24">
+                            {showDescription ? (
+                            <path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path>
+                            ) : (
+                            <path d="M7.41 7.84L12 12.42l4.59-4.58L18 9.25l-6 6-6-6z"></path>
+                            )}
+                        </svg>
+                    </div>
                 </div>
+
             </div>
 
             <div className="eventDescription" style={showDescription ? { display: "block", backgroundColor: color } : { display: "none" }}>
