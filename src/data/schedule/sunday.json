@@ -10,14 +10,14 @@
         "time": "9:00am",
         "type": "Panel",
         "title": "Landing your Dream Internship",
-        "host": "Cristie Huang, Hana Memon, Isabel Abonitalla, Allison Tamayo",
+        "host": "Cristie Huang, Hana Memon, Isabel Abonitalla, and Allison Tamayo",
         "description": "Dying to land that internship that you desperately want? Join us in this panel to learn more about how you can maximize your chances to landing that dream internship!"
     },
     {
         "time": "10:00am",
         "type": "Panel",
         "title": "Unconventional Tech Careers",
-        "host": "Ravina Anand, Tameka Vasquez and Laura Reever",
+        "host": "Ravina Anand, Tameka Vasquez, Laura Reeve, and May Wong",
         "description": "Want to work in tech, but don't want to do the usual software engineering or product management? Tune into this panel to learn about the tech careers you've probably never heard of."
     },
     {   "time": "11:00am",
@@ -35,7 +35,31 @@
     {   "time": "1:00pm",
         "type": "Panel",
         "title": "Gaming Your Way In: Game Development 101",
-        "host": "Joanie Kraut, Geneva Heyward, Renee Gittins",
+        "host": "Joanie Kraut, Geneva Heyward, and Renee Gittins",
         "description": "Love games, and you're curious about how to one makes them? Here, you'll learn how to 'game your way into' the gaming space, even if you might not be the best coder!"
+    },
+    {   "time": "3:00pm",
+        "type": "Activity",
+        "title": "Game On! - Gartic Phone",
+        "host": "the TTB team",
+        "description": ""
+    },
+    {   "time": "3:00pm",
+        "type": "Activity",
+        "title": "Game On! - Sketchful.io",
+        "host": "the TTB team",
+        "description": ""
+    },
+    {   "time": "3:00pm",
+        "type": "Activity",
+        "title": "Game On! - Among Us",
+        "host": "the TTB team",
+        "description": ""
+    },
+    {   "time": "5:30pm",
+        "type": "Activity",
+        "title": "Closing Ceremony",
+        "host": "the TTB team",
+        "description": ""
     }
 ]

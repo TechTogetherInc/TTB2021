@@ -8,6 +8,13 @@
     },
     {
         "time": "9:00am",
+        "type": "Team Formation",
+        "title": "Team Formation",
+        "host": "the TTB Team",
+        "description": "Find a team to bring your project ambitions to life!"
+    },
+    {
+        "time": "9:00am",
         "type": "Workshop",
         "title": "How to Create a Job-Ready Resume",
         "host": "Jennifer Cosenza",
@@ -24,7 +31,7 @@
         "time": "11:00am",
         "type": "Panel",
         "title": "_____ x Tech - The Interdisciplinary Nature of Tech",
-        "host": "Vicki Lau, Abigayle Peterson, Nia Asemota, Jacky Huang, Mieko Kawasaki",
+        "host": "Vicki Lau, Abigayle Peterson, Nia Asemota, Jacky Huang, and Mieko Kawasaki",
         "description": "Want to work with tech, but not in tech? This panel showcases individuals who take a different spin with tech and turn it into their own powerful tools!"
     },
     {
@@ -49,24 +56,38 @@
         "description": "MVP? Minimum Viable Product! Although a mysterious word used in the world of tech, you'll soon learn it's not that mysterious at all."
     },
     {
+        "time": "12:30pm",
+        "type": "Team Formation",
+        "title": "Team Formation",
+        "host": "the TTB Team",
+        "description": "Find a team to bring your project ambitions to life!"
+    },
+    {
         "time": "1:00pm",
         "type": "Panel",
         "title": "How did I Get to Where I Am - An Entrepreneur's Guide",
-        "host": "Janice Dru-Bennet, Jasmine Lawrence, Enrique Torres",
+        "host": "Janice Dru-Bennet, Jasmine Lawrence, and Enrique Torres",
         "description": "Wonder how entrepreneurs become successful running their business in the vicious and cut-throat tech space? Tune into these panelists to learn about their journey to becoming successful business leaders."
     },
     {
         "time": "1:00pm",
         "type": "Panel",
         "title": "Data 101 - Analytics, Science and Engineering",
-        "host": "Wanxin Ye, Leila Ouellaj, My Nguyen",
+        "host": "Wanxin Ye, Leila Ouellaj, and My Nguyen",
         "description": "Data where? Data everywhere! Here at Data 101, you'll get to meet people working in all different data industries and roles!"
+    },
+    {
+        "time": "1:00pm",
+        "type": "Activity",
+        "title": "Microsoft Keynote",
+        "host": "Microsoft",
+        "description": ""
     },
     {
         "time": "2:00pm",
         "type": "Panel",
         "title": "Diversity in Tech",
-        "host": "Wendy Cukier, Muna Khayyat, Srujani Kamineni, Manjiri Tapaswi",
+        "host": "Wendy Cukier, Muna Khayyat, Srujani Kamineni, and Manjiri Tapaswi",
         "description": "Wanting to venture into tech, but you don't see many that are like you? Come and meet people from different underrepresented backgrounds who are thriving in tech!"
     },
     {
@@ -87,14 +108,21 @@
         "time": "4:00pm",
         "type": "Panel",
         "title": "Ethics in Tech",
-        "host": "Doaa Abu-Elyounes, Shalaleh Rismani, Briony Swire-Thompson, Samamtha Weiner",
-        "description": ""
+        "host": "Doaa Abu-Elyounes, Shalaleh Rismani, Briony Swire-Thompson, and Samamtha Weiner",
+        "description": "As consumers of tech, it's vital to be socially and ethically conscious of what we're taking in. Join this panel to learn the ethical issues surrounding tech and why it's so important."
     },
     {
         "time": "5:00pm",
         "type": "Panel",
         "title": "Using Tech to Impact Your Community",
-        "host": "Megan Cui, Abbey Mui, Danielle Egan, Anjali",
+        "host": "Megan Cui, Abbey Mui, Danielle Egan, and Anjali",
+        "description": "Want to know how the future leaders of tech think? Join this panel that features non-profit leaders using tech to impact their community!"
+    },
+    {
+        "time": "6:00pm",
+        "type": "Activity",
+        "title": "MLH Fun Activity: Bob Ross",
+        "host": "MLH Representatives",
         "description": ""
     },
     {
@@ -119,6 +147,13 @@
         "description": "Inspired by Pokemon Go's AR? Take up this workshop to learn more about AR technology and how to use it in your projects."
     },
     {
+        "time": "8:00pm",
+        "type": "Workshop",
+        "title": "Design Thinking 101 by Pegasystems",
+        "host": "Pegasystems",
+        "description": ""
+    },
+    {
         "time": "9:00pm",
         "type": "Workshop",
         "title": "How to Develop a Product Sense",
@@ -131,19 +166,5 @@
         "title": "Networking Beyond LinkedIn",
         "host": "Jasmine Nuñez",
         "description": "You're probably not using LinkedIn right with all those failed connections. Take this workshop to learn how you can better network within and beyond LinkedIn."
-    },
-    {
-        "time": "11:00pm",
-        "type": "Activity",
-        "title": "Quick! Pitch Me!",
-        "host": "TechTogether Organizer",
-        "description": ""
-    },
-    {
-        "time": "12:00am",
-        "type": "Activity",
-        "title": "Painting Night",
-        "host": "TechTogether Organizer",
-        "description": ""
     }
 ]
