@@ -79,9 +79,9 @@
     {
         "time": "10:00pm",
         "type": "Workshop",
-        "title": "Microsoft Workshop/Panel",
-        "host": "Microsoft",
-        "description": ""
+        "title": "Deploy Your React App to the Cloud",
+        "host": "Jasmine Greenaway",
+        "description": "React, Angular and Vue are some of the most popular frameworks for building web apps. In this workshop you will learn how to deploy a static web app to the cloud directly from GitHub with Azure Static Web Apps. We then create a simple backend API with the help of Azure Functions. Finally, we put everything together and publish our backend and updated frontend."
     },
     {
         "time": "10:00pm",

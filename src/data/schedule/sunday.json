@@ -38,6 +38,12 @@
         "host": "Joanie Kraut, Geneva Heyward, and Renee Gittins",
         "description": "Love games, and you're curious about how to one makes them? Here, you'll learn how to 'game your way into' the gaming space, even if you might not be the best coder!"
     },
+    {   "time": "2:00pm",
+        "type": "Activity",
+        "title": "Hacking Ends",
+        "host": "the TTB Team",
+        "description": ""
+    },
     {   "time": "3:00pm",
         "type": "Activity",
         "title": "Game On! - Gartic Phone",
