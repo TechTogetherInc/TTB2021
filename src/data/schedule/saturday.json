@@ -8,13 +8,6 @@
     },
     {
         "time": "9:00am",
-        "type": "Team Formation",
-        "title": "Team Formation",
-        "host": "the TTB Team",
-        "description": "Find a team to bring your project ambitions to life!"
-    },
-    {
-        "time": "9:00am",
         "type": "Workshop",
         "title": "How to Create a Job-Ready Resume",
         "host": "Jennifer Cosenza",
@@ -22,10 +15,10 @@
     },
     {
         "time": "10:00am",
-        "type": "Workshop",
-        "title": "Microsoft Workshop/Panel",
-        "host": "Microsoft",
-        "description": ""
+        "type": "Team Formation",
+        "title": "Team Formation",
+        "host": "the TTB Team",
+        "description": "Find a team to bring your project ambitions to life!"
     },
     {
         "time": "11:00am",
