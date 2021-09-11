@@ -70,13 +70,6 @@
         "description": "Data where? Data everywhere! Here at Data 101, you'll get to meet people working in all different data industries and roles!"
     },
     {
-        "time": "1:00pm",
-        "type": "Activity",
-        "title": "Microsoft Keynote",
-        "host": "Microsoft",
-        "description": ""
-    },
-    {
         "time": "2:00pm",
         "type": "Panel",
         "title": "Diversity in Tech",
