@@ -26,6 +26,12 @@
         "host": "Kyle Suero, Becky Pinkard and Sivan Tehila",
         "description": "Cybersecurity jobs are known to be the highest paying in the tech space. Join us in this panel to learn more about how you can 'break into' the cybersecurity space."
     },
+    {   "time": "12:00pm",
+        "type": "Keynote",
+        "title": "How I Stumbled into my Dream Tech Job",
+        "host": "Morgan Bell",
+        "description": "As requested by attendees via Instagram, I'll be sharing my journey into tech. It's not traditional, linear, or perfect by any stretch of the imagination. I'll share my failures and learnings, how I made opportunities for myself that didn't already exist, the power of networking, various roles in tech (we don't all have to code), and how I found my passion that allows my 'day job' to feel more like a hobby!"
+    },
     {   "time": "1:00pm",
         "type": "Panel",
         "title": "Gaming Your Way In: Game Development 101",
