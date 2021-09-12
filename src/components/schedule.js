@@ -22,6 +22,7 @@ const Schedule = () => {
     }];
 
     const typeToColorMapping = {
+        "Keynote": "#FCCCFD", 
         "Team Formation": "#FCCCFD", // pink
         "Workshop": "#CCD2FC", // purple
         "Activity": "#FDFBCD", // yellow 
